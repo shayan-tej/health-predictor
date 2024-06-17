@@ -8,7 +8,12 @@
 
 The **Health Predictor Web App** is a machine learning-powered tool designed to predict the likelihood of **Diabetes**, **Heart Disease**, and **Parkinson's Disease** based on patient-provided information. This web application features a user-friendly interface built with Streamlit, providing easy-to-understand predictions and statistical insights.
 
-![App Screenshot](screenshots/app_screenshot.png)
+![Diabetes Page](screenshots/Diabetes_page.png)
+![Heart Page](screenshots/Heart_page.png)
+![Parkinsons Page](screenshots/Parkinsons_page.png)
+
+## Web App link
+[Health-Predictor-Streamlit.app](https://shayan-tej-health-predictor-app-skrwhl.streamlit.app/)
 
 ## Features
 
